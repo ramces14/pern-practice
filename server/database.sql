@@ -1,0 +1,6 @@
+CREATE DATABASE practice;
+
+CREATE TABLE PTODO(
+   _id SERIAL PRIMARY KEY,
+   text VARCHAR(255)
+);
